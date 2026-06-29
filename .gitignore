@@ -1,0 +1,31 @@
+# Entorno virtual
+venv/
+env/
+.env
+
+# Base de datos vectorial (ChromaDB)
+base_conocimiento/
+
+# Archivos de logs
+*.log
+logs/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuraciones locales (si tienes alguna)
+*.local
+*.env
+
+# Archivos de PDF (opcional: si quieres que otros tengan el PDF, comenta esta línea)
+# ficha_unsis.pdf
+# Procedimiento\ para\ obtener\ tu\ ficha\ en\ linea\ 2026.pdf
+
+# Archivos de Apache (si quieres subir la configuración, quita el comentario)
+# /etc/apache2/sites-available/000-default.conf
