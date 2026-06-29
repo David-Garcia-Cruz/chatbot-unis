@@ -107,18 +107,11 @@ Haz clic en el botón 💬 y prueba preguntar:
 ## Créditos / Autores
 
 - Desarrollador: David García Cruz
-- Universidad de la Sierra Sur (UNSIS) – Proyecto de admisiones
 - Tecnologías de IA y scraping: SentenceTransformers, ChromaDB, BeautifulSoup
 
 ---
 
-## Licencia
 
-Este proyecto es de uso interno para la UNSIS y su comunidad educativa. Puede ser utilizado y modificado con fines académicos.
-
----
-
-## Contacto
 
 Para dudas o sugerencias, escribe a: admision.unsis@gmail.com o abre un issue en este repositorio.
 
