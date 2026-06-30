@@ -108,6 +108,7 @@ Haz clic en el botón 💬 y prueba preguntar:
 
 - Desarrollador: David García Cruz
 - Tecnologías de IA y scraping: SentenceTransformers, ChromaDB, BeautifulSoup
+- Link del video: https://drive.google.com/file/d/1kUw9QEK3D3i6QUUEcMCXoubquPax_hbC/view?usp=drive_link
 
 ---
 
