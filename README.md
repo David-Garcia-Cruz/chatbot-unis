@@ -112,10 +112,4 @@ Haz clic en el botón 💬 y prueba preguntar:
 
 ---
 
-
-
-Para dudas o sugerencias, escribe a: admision.unsis@gmail.com o abre un issue en este repositorio.
-
----
-
 ¡Gracias por visitar este proyecto! 🎓🚀
